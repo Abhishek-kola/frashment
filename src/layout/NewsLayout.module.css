@@ -1,0 +1,22 @@
+.category {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 50%;
+}
+
+.category h1 {
+    font-size: 15px;
+    font-weight: 500;
+    background-color: antiquewhite;
+    padding: 9px;
+    border-radius: 5px;
+    color: black;
+
+}
+
+.category h1:hover {
+    background: black;
+    color: white;
+    cursor: pointer;
+}

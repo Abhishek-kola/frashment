@@ -1,0 +1,12 @@
+.nav {
+    display: flex;
+    align-items: center;
+    gap: 45px;
+}
+
+.nav a {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    cursor: pointer;
+}
